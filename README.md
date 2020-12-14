@@ -1,6 +1,7 @@
 # Acer E5-476G
 
-THIS IS FORK FROM ROCKAVOLDY REP. THIS EDIT FOR MY OWN BACKUP. PLEASE REFERS TO THE PARENT REP FOR ANY CHANGES. Donate:
+THIS IS FORK FROM ROCKAVOLDY REP. THIS EDIT FOR MY OWN BACKUP. PLEASE REFERS TO THE PARENT REP FOR ANY CHANGES. 
+Donate to author:
 [![ko-fi](https://img.shields.io/badge/Ko--fi-rockavoldy-brightgreen?style=flat&logo=ko-fi)](https://ko-fi.com/rockavoldy)
 [![trakteer.id](https://img.shields.io/badge/Trakteer.id-akhmad.id-brightgreen?style=flat&logo=ko-fi)](https://trakteer.id/akhmad.id)
 
@@ -45,13 +46,13 @@ THIS IS FORK FROM ROCKAVOLDY REP. THIS EDIT FOR MY OWN BACKUP. PLEASE REFERS TO 
 
 ## Notes
 - Remap Brightness keys to PrtScr & Pause Break. And Volume keys to Fn+F11 (NumLock) & Fn+F12 (ScrLock). And i am also disable Fn+Arrow key, you can see SSDT-PS2K to change this if you don’t like my mapping.
-- Use your own SMBIOS as this rep doesn't included one.
--  Jack Audio broken if you are not installing ALC255! [ComboJackFix from hackintosh-stuff](https://github.com/hackintosh-stuff/ComboJack) 
+- Use your own generated SMBIOS as this rep doesn't included one.
+-  Jack Audio broken if you are not installing ALC255 [ComboJackFix from hackintosh-stuff!](https://github.com/hackintosh-stuff/ComboJack) 
 
 
 ## Credit
 
-- Rockavoldy for his rep and time to chat with me solving hackintosh along the way
+- Rockavoldy for his time and work on original rep and time to chat with me solving hackintosh along the way
 - Acidanthera team
 - Alexandred and VoodooI2C team
 - OpenIntelWireless team
