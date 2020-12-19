@@ -43,6 +43,7 @@ Donate to author:
 - Nvidia MX130 (Optimus)
 - Combo Jack Microphone
 - SD Card reader (USB Interface, not supported yet)
+- Sealed Broken
 
 ## Notes
 - Remap Brightness keys to PrtScr & Pause Break. And Volume keys to Fn+F11 (NumLock) & Fn+F12 (ScrLock). And i am also disable Fn+Arrow key, you can see SSDT-PS2K to change this if you don’t like my mapping.
