@@ -19,7 +19,7 @@ Donate to author:
 - Keyboard: PS2 Keyboard
 - Resolution: 1366x768@60Hz
 - Bootloader: OpenCore 0.6.4 RELEASE
-- OS Version: macOS 11.0.1 Big Sur (20b29)
+- OS Version: macOS 11.1 Big Sur (20C69)
 - SMBIOS: MacBookPro13,1
 
 ## Working
